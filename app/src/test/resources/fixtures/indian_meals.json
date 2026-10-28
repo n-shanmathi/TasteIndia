@@ -1,0 +1,24 @@
+{
+  "meals": [
+    {
+      "strMeal": "Baigan Bharta",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "idMeal": "52807"
+    },
+    {
+      "strMeal": "Chicken Handi",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wywvwq1511821016.jpg",
+      "idMeal": "52818"
+    },
+    {
+      "strMeal": "Dal Dhamaka",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+      "idMeal": "52772"
+    },
+    {
+      "strMeal": "Kidney Bean Curry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+      "idMeal": "52785"
+    }
+  ]
+}

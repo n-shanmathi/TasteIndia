@@ -1,0 +1,14 @@
+{
+  "meals": [
+    {
+      "strMeal": "Chicken Handi",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wywvwq1511821016.jpg",
+      "idMeal": "52818"
+    },
+    {
+      "strMeal": "Chicken Alfredo",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+      "idMeal": "52796"
+    }
+  ]
+}

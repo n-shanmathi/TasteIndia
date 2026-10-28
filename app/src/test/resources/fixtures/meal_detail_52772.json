@@ -1,0 +1,28 @@
+{
+  "meals": [
+    {
+      "idMeal": "52772",
+      "strMeal": "Teriyaki Chicken Casserole",
+      "strDrinkAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Japanese",
+      "strInstructions": "Preheat oven to 350 degrees F (175 degrees C).\r\nSTEP 1: Mix soy sauce, water, brown sugar, ginger, and garlic in a small saucepan.\r\nSTEP 2: Bake in preheated oven for 45 minutes.\r\nSTEP 3: Serve warm with rice.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "strTags": "Meat,Casserole",
+      "strYoutube": "https://www.youtube.com/watch?v=4aZr5hZXP_s",
+      "strIngredient1": "Soy Sauce",
+      "strIngredient2": "Water",
+      "strIngredient3": "Brown Sugar",
+      "strIngredient4": "Ground Ginger",
+      "strIngredient5": "Minced Garlic",
+      "strIngredient6": "",
+      "strMeasure1": "3/4 cup",
+      "strMeasure2": "1/2 cup",
+      "strMeasure3": "1 cup",
+      "strMeasure4": "1/2 tsp",
+      "strMeasure5": "1/2 tsp",
+      "strMeasure6": "",
+      "strSource": "https://www.allrecipes.com/recipe/8499/teriyaki-chicken-casserole/"
+    }
+  ]
+}
